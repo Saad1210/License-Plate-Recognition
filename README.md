@@ -18,8 +18,8 @@ The goal of this project is to develop a system that can detect license plates i
 
 ## Tech Stak
 
-Language : Python 3.10
-Libraries :
+- Language : Python 3.10
+- Libraries :
     - OpenCV
     - EasyOCR
     - Matplotlib
